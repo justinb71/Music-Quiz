@@ -1,0 +1,138 @@
+{
+    "70s": [
+
+        {   "Number": 0,
+            "Title": "Don't Stop Me Now",
+            "Artist":"Queen",
+            "Hint":"D_____ S_____  M_____  N_____"
+        },
+
+        {
+            "Number": 1,
+            "Title": "Highway to hell ",
+            "Artist":"AC/DC",
+            "Hint":"H_____ T_____ H_____"
+        },
+        {
+            "Number": 2,
+            "Title": "Stayin' alive",
+            "Artist":"Bee Gees",
+            "Hint":"S_____ A_____"
+        },
+        {
+            "Number": 3,
+            "Title": "American pie",
+            "Artist":"Don Mclean",
+            "Hint":"A_____ P_____"
+        },
+        {
+            "Number": 4,
+            "Title": "Let it be",
+            "Artist":"The Beatles",
+            "Hint": "L_____ I_____ B_____"
+        },
+        {
+            "Number": 5,
+            "Title": "Superstition",
+            "Artist":"Stevie Wonder",
+            "Hint":"S_____"
+        },
+        {
+
+            "Number": 6,
+            "Title": "Rocket Man",
+            "Artist":"Elton John",
+            "Hint":"R_____ M_____"
+        },
+        {
+            "Number": 7,
+            "Title": "Dancing Queen",
+            "Artist":"ABBA",
+            "Hint": "D_____ Q_____"
+        },
+        {
+            "Number": 8,
+            "Title": "Ballroom Blitz",
+            "Artist":"Sweet",
+            "Hint": "B_____ B_____"
+        },
+        {
+            "Number": 9,
+            "Title": "Stairway to Heaven",
+            "Artist":"Led Zeppelin",
+            "Hint": "S_____ T_____ H_____"
+        }
+    ],
+        "80s": [
+
+            {   "Number": 0,
+                "Title": "Take On Me",
+                "Artist":"Ah Ha",
+                "Hint": "T_____ O_____ M_____"
+            },
+    
+            {
+                "Number": 1,
+                "Title": "Sweet Child o Mine",
+                "Artist":"Gunes & Roses",
+                "Hint": "S_____ C_____ o_____ M_____"
+            },
+            {
+                "Number": 2,
+                "Title": "Never Gonna Give You Up",
+                "Artist":"Rick Astley",
+                "Hint": "N_____ G_____ G_____ Y_____ U_____"
+            },
+            {
+                "Number": 3,
+                "Title": "Don't you Forget About Me",
+                "Artist":"Simple Minds",
+                "Hint": "D_____ Y_____ F_____ A_____ M_____"
+            },
+            {
+                "Number": 4,
+                "Title": "Livin' On A Prayer",
+                "Artist":"The Beatles",
+                "Hint": "L_____ O_____ A_____ P_____"
+            },
+            {
+                "Number": 5,
+                "Title": "Everybody Wants To Rule The World",
+                "Artist":"Tears For Fears",
+                "Hint": "E_____ W_____ T_____ R_____ T_____ W_____"
+            },
+            {
+    
+                "Number": 6,
+                "Title": "Beat It",
+                "Artist":"Micheal Jackson",
+                "Hint": "B_____ I_____"
+            },
+            {
+                "Number": 7,
+                "Title": " s",
+                "Artist":" s",
+                "Hint": "s"
+            },
+            {
+                "Number": 8,
+                "Title": "d ",
+                "Artist":" d",
+                "Hint": "d"
+            },
+            {
+                "Number": 9,
+                "Title": "f",
+                "Artist":"f",
+                "Hint": "f"
+            }      
+        ]
+
+
+    
+
+
+
+
+
+}
